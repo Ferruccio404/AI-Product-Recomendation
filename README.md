@@ -15,16 +15,8 @@ Frontend: React (Vite), CSS (Custom), Axios, Lucide React
 Backend: Node.js, Express.js, Google Generative AI SDK, Dotenv, CORS
 
 📂 **Project Structure**
-WeRecommend/
-├── backend/
-│   ├── index.js
-│   ├── package.json
-│   └── .env
-├── frontend/
-│   ├── src/
-│   ├── package.json
-│   └── vite.config.js
-└── README.md
+<img width="334" height="259" alt="Screenshot 2026-01-20 at 6 19 38 PM" src="https://github.com/user-attachments/assets/95129e53-421a-4e5b-8994-4925f3abf256" />
+
 
 Installation & Setup
 Prerequisites
